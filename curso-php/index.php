@@ -48,7 +48,7 @@
         <div class="modulo azul">
           <h3>Módulo 03</h3>
           <ul>
-            <li> <a href="exercicio.php">Exercício A</a></li>
+            <li> <a href="exercicio.php?dir=variaveis&file=basico">Variáveis</a></li>
             <li> <a href="exercicio.php">Exercício B</a></li>
             <li> <a href="exercicio.php">Exercício C</a></li>
           </ul>
