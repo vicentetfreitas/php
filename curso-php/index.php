@@ -40,8 +40,7 @@
             <li> <a href="exercicio.php?dir=tipos&file=aritmeticas">Operações Aritméticas</a></li>
             <li> <a href="exercicio.php?dir=tipos&file=desafio_precedencia">Desafio Precedência</a></li>
             <li> <a href="exercicio.php?dir=tipos&file=string">String</a></li>
-            <li> <a href="exercicio.php">Exercício B</a></li>
-            <li> <a href="exercicio.php">Exercício C</a></li>
+            <li> <a href="exercicio.php?dir=tipos&file=desafio_string">Desafio String</a></li>
           </ul>
         </div>
         <div class="modulo azul">
