@@ -40,7 +40,7 @@
             <li> <a href="exercicio.php?dir=tipos&file=aritmeticas">Operações Aritméticas</a></li>
             <li> <a href="exercicio.php?dir=tipos&file=desafio_precedencia">Desafio Precedência</a></li>
             <li> <a href="exercicio.php?dir=tipos&file=string">Tipo String</a></li>
-            <li> <a href="exercicio.php?dir=tipos&file=desafio_string">Desafio String</a></li> 
+            <li> <a href="exercicio.php?dir=tipos&file=desafio_string">Desafio String</a></li>
             <li> <a href="exercicio.php?dir=tipos&file=booleano">Tipo Booleano</a></li>
             <li> <a href="exercicio.php?dir=tipos&file=conversoes">Conversões</a></li>
           </ul>
@@ -52,6 +52,7 @@
             <li> <a href="exercicio.php?dir=variaveis&file=desafio_equacao">Desafio Equação</a></li>
             <li> <a href="exercicio.php?dir=variaveis&file=atribuicoes">Atribuições</a></li>
             <li> <a href="exercicio.php?dir=variaveis&file=interpolacao">Interpolação</a></li>
+            <li> <a href="exercicio.php?dir=variaveis&file=variaveis_variaveis">Variáveis vairiáveis</a></li>
           </ul>
         </div>
         <div class="modulo roxo">
