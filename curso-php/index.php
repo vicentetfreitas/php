@@ -26,6 +26,7 @@
             <li> <a href="exercicio.php?dir=controle&file=if_else">If Else</a></li>
             <li> <a href="exercicio.php?dir=controle&file=operadores_relacionais">Operadores Relacionais</a></li>
             <li> <a href="exercicio.php?dir=controle&file=desafio_pi">Desafio PI</a></a></li>
+            <li> <a href="exercicio.php?dir=controle&file=operadores_logicos">Operadores Lógicos</a></a></li>
           </ul>
         </div>
         <div class="modulo azul">

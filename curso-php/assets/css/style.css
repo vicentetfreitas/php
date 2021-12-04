@@ -214,3 +214,12 @@ body {
 .roxo-escuro:hover {
     background-color: #4a148c5e;
 }
+
+p.divisao {
+    margin-bottom: 0px;
+    font-weight: bold;
+}
+
+hr {
+    margin-top: 0px;
+}
