@@ -28,6 +28,7 @@
             <li> <a href="exercicio.php?dir=controle&file=desafio_pi">Desafio PI</a></a></li>
             <li> <a href="exercicio.php?dir=controle&file=operadores_logicos">Operadores Lógicos</a></a></li>
             <li> <a href="exercicio.php?dir=controle&file=desafio_operadores_logicos">Desafio operadores lógicos</a></a></li>
+            <li> <a href="exercicio.php?dir=controle&file=operador_ternario">Operador ternário</a></a></li>
           </ul>
         </div>
         <div class="modulo azul">
